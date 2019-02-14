@@ -1,7 +1,8 @@
 # Git-practice-assignment
 <h2>Cool ideas of side projects
 
-One of the most important ways to develop skills and improve employability as a software engineer is to work on side projects. These can run the gamut from open source projects to helpful tools and scripts, to fun toys. This website provides many interesting ideas of software projects for people to choose to implement and improve their own skills.
+One of the most important ways to develop skills and improve employability as a software engineer is to work on side projects. These can run the gamut from open source projects to helpful tools and scripts, to fun toys. This website provides many interesting ideas of software projects for people to choose to implement and improve their own skills. It is fun to check out the excellent side project ideas and consider doing one.
+
 <h3>Example ideas:
 
 * FTP Client (suggested implementation: web, desktop or CLI app).
